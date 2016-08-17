@@ -1,0 +1,34 @@
+body { 
+	background-image:url(gris.jpg);
+}
+
+
+
+
+div#zen-preamble { 
+	border:5px solid blue; color:black;
+	background: #D8D8D8;
+}
+
+
+
+div#zen-participation {
+	border:4px solid blue; color:black;
+	background: #D8D8D8;
+}
+
+div#zen-requirements {
+	border:4px solid blue; color:black;
+	background: #D8D8D8;}
+
+.letraBlanca {
+	color: white;
+}
+
+
+
+
+
+	
+
+	
